@@ -17,7 +17,7 @@ window.onscroll = function(){
         document.querySelector('.main').style.background = 'linear-gradient(black, rgb(33, 32, 32))';
         }
         else{
-        document.querySelector('.main').style.background = 'linear-gradient(rgb(34, 100, 113),rgb(33, 32, 32))';
+        document.querySelector('.main').style.background = 'linear-gradient(rgb(225, 236, 238),rgb(33, 32, 32))';
         }
      }
 }
