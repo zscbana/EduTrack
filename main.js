@@ -13,7 +13,7 @@ window.onscroll = function(){
         else{
             Edutrack.style.display = 'block';
         }
-        if(scrollY >= 114){
+        if(scrollY <= 114){
         document.querySelector('.main').style.background = 'linear-gradient(black, rgb(33, 32, 32))';
         }
         else{
